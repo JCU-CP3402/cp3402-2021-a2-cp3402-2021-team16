@@ -1,0 +1,3 @@
+<h1>Site</h1>
+
+<h4>Our website is a website that cares about autism. The name is ASG, which is called Autism Support Group. We briefly introduced this autism on the Home page. On the support page, the activities of various organizations are introduced to facilitate the communication and discussion of parents. We also set up a Blog interface to facilitate people to understand and care about this group. Finally, the contact information was left. If anyone needs help, you can contact us by sending a message.</h4>
